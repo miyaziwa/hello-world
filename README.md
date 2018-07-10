@@ -3,4 +3,4 @@ just another repository
 
 NINGGEN !
 
-How to build maid-chan.
+How i build maid-chan?.
